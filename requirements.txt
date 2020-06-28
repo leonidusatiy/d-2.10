@@ -1,0 +1,4 @@
+bottle
+gunicorn
+sentry-sdk
+sentry-sdk[bottle]
